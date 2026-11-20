@@ -21,7 +21,7 @@ A production-ready, privacy-first web application that converts receipt and invo
 ### 1. Receipt Extraction & Verification
 ![Receipt Extraction Demo](assets/extraction_demo.png)
 
-### 2. Saved History & Bulk CSV Export
+### 2. Bulk CSV Export
 ![Saved History Demo](assets/history_demo.png)
 
 ---
