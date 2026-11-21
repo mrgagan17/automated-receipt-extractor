@@ -4,7 +4,7 @@ A production-ready, privacy-first web application that converts receipt and invo
 
 ---
 
-## ✨ Key Features
+## ✨ Key Features:
 
 - **100% Local & Zero-Cost OCR:** Runs PaddleOCR models on lightweight ONNX Runtime (`rapidocr-onnxruntime`) for fast CPU inference and low memory usage—no paid cloud OCR APIs required.
 - **Automated Image Preprocessing:** Auto-orients photos, upscales low-resolution scans, and applies CLAHE contrast enhancement via OpenCV before reading text.
@@ -16,7 +16,7 @@ A production-ready, privacy-first web application that converts receipt and invo
 
 ---
 
-## 📸 Output Previews
+## 📸 Output Previews:
 
 ### 1. Receipt Extraction & Verification
 ![Receipt Extraction Demo](assets/extraction_demo.png)
@@ -26,7 +26,7 @@ A production-ready, privacy-first web application that converts receipt and invo
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack:
 
 | Layer | Technology |
 | :--- | :--- |
@@ -39,7 +39,7 @@ A production-ready, privacy-first web application that converts receipt and invo
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure:
 
 ```text
 receipt-extractor/
